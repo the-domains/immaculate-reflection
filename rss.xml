@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[immaculate reflection]]></title>
         <description><![CDATA[immaculate reflection]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/immaculate-reflection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 21:10:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jul 2016 21:12:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/immaculate-reflection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA['I'll Retire When I'm Dead': Why Continuing to Work Is Good for a Man's Health - MEL Magazine]]></title>
+            <description><![CDATA[<article><h1>'I'll Retire When I'm Dead': Why Continuing to Work Is Good for a Man's Health - MEL Magazine</h1><p>Retirement can lead to a steep decline in mental and physical well-being "I have no interest in retirement," Leon Dash says from his office in Gregory Hall, on the University of Illinois campus in Urbana-Champaign. At 72, Dash has, by all accounts, lived an exceptionally full, successful life- one that more than merits a comfortable retirement.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d836f0a32e73d5686cfe9f23943483df/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*u9g6-3k9CjFr2fb8LRK7sw.jpeg"></article>]]></description>
+            <link>https://features.wearemel.com/ill-retire-when-i-m-dead-why-continuing-to-work-is-good-for-a-man-s-health-c3053052d136#.7ahdvl5ru</link>
+            <guid isPermaLink="false">d985d61e-8628-4a2f-915b-8f82e7f426fd</guid>
+            <pubDate>Fri, 01 Jul 2016 21:12:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I am sorry]]></title>
-            <description><![CDATA[<article><h1>I am sorry</h1><p>You died last night. You were hit by a car at Howard & 7th in San Francisco when you were riding your bike through the intersection. I was a passenger in the orange prius. We saw the SUV hit you, and speed off. We screamed 'No! No! No!'.</p><img src="https://cdn-images-1.medium.com/max/2000/1*OoXsowL2isxlqKcGNx0SkA.jpeg"></article>]]></description>
-            <link>undefinedi-am-sorry/index.html</link>
+            <description><![CDATA[<article><h1>I am sorry</h1><p>You died last night. You were hit by a car at Howard & 7th in San Francisco when you were riding your bike through the intersection. I was a passenger in the orange prius. We saw the SUV hit you, and speed off. We screamed 'No! No! No!'.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e02c1fc06a40c37d4d16336b2ee06e1/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*OoXsowL2isxlqKcGNx0SkA.jpeg"></article>]]></description>
+            <link>https://thegrid.ai/immaculate-reflection/i-am-sorry/index.html</link>
             <guid isPermaLink="false">46731c52-cf84-4209-b67b-f2f52c834401</guid>
             <pubDate>Fri, 01 Jul 2016 21:09:23 GMT</pubDate>
         </item>
