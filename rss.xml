@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[immaculate reflection]]></title>
+        <description><![CDATA[immaculate reflection]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jul 2016 21:10:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I am sorry]]></title>
+            <description><![CDATA[<article><h1>I am sorry</h1><p>You died last night. You were hit by a car at Howard & 7th in San Francisco when you were riding your bike through the intersection. I was a passenger in the orange prius. We saw the SUV hit you, and speed off. We screamed 'No! No! No!'.</p><img src="https://cdn-images-1.medium.com/max/2000/1*OoXsowL2isxlqKcGNx0SkA.jpeg"></article>]]></description>
+            <link>undefinedi-am-sorry/index.html</link>
+            <guid isPermaLink="false">46731c52-cf84-4209-b67b-f2f52c834401</guid>
+            <pubDate>Fri, 01 Jul 2016 21:09:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
