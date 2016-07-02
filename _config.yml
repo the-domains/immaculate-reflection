@@ -1,14 +1,14 @@
-layout_spectrum: 0.2891222739126533
-typography_spectrum: 0.7710472224280238
+layout_spectrum: 0.575203595450148
+typography_spectrum: 0.9695506382267922
 color:
-  brandStrength: 0.9644485202152282
-  lightness: 0.19191472721286118
-  saturation: 0.3988623348996043
-  rhythmicContrast: 0.3090567078907043
+  brandStrength: 0.8725563625339419
+  lightness: 0.22306021652184427
+  saturation: 0.8852649820037186
+  rhythmicContrast: 0.18929455475881696
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: immaculate reflection
